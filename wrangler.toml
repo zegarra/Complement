@@ -1,6 +1,2 @@
 name = "complement-site"
 compatibility_date = "2026-02-06"
-
-[site]
-bucket = "./dist"
-entry-point = "workers-site"
